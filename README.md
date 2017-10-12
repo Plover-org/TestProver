@@ -1,10 +1,1 @@
-REMOVE IT ALL!
-# TestProver
-
-This guy is the change
-
-This guy
-
-
-
-MY EDITING TIME
+I'm going to remove this change here
